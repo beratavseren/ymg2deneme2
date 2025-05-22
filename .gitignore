@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+ymg2deneme/node_modules
+ymg2deneme/.pnp
+ymg2deneme/.pnp.js
+
+# testing
+ymg2deneme/coverage
+
+# production
+ymg2deneme/build
+
+# misc
+ymg2deneme/.DS_Store
+ymg2deneme/.env.local
+ymg2deneme/.env.development.local
+ymg2deneme/.env.test.local
+ymg2deneme/.env.production.local
+
+ymg2deneme/npm-debug.log*
+ymg2deneme/yarn-debug.log*
+ymg2deneme/yarn-error.log*
